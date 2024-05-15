@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is x5839
+x5839
 =============================================================================================================================
 
 web developer
 
 * 🌍  I'm based in internet
-* 🖥️  See my portfolio at [My telegram](http://t.me/fuckjavascript)
+* 🖥️  My contact: [My telegram](http://t.me/fuckjavascript)
 * 🧠  I'm learning JavaScript, TypeScript, NodeJS
 
 ### Skills
