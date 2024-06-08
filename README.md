@@ -1,11 +1,10 @@
-Hi 👋 My name is x5839
+### x5839
 ======================
 
 web developer/web designer
 --------------------------
 
-* 🌍  I'm based in internet
-* 🖥️  See my portfolio at [my telegram](http://t.me/fuckjavascript)
+* 🖥️  tg [my telegram](http://t.me/fuckjavascript)
 
 <a href="https://www.github.com/x5839" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/x5839?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -18,6 +17,7 @@ src="https://img.shields.io/github/followers/x5839?logo=github&style=for-the-bad
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/fuckjavascript" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/x5839" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <a href="https://github.com/x5839" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x5839&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
